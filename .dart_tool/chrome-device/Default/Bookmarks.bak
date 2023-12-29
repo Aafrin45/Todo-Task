@@ -1,0 +1,127 @@
+{
+   "checksum": "796327e44432ca1d088a56041cfc926f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13336490971120254",
+            "date_last_used": "0",
+            "guid": "9084cf01-27c9-42a4-80cf-695ec83939d0",
+            "id": "22",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13336490971121151",
+            "date_last_used": "0",
+            "guid": "1b71d6bd-bbac-4bb5-a1c6-d82dd08ad825",
+            "id": "23",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13336490971121610",
+            "date_last_used": "0",
+            "guid": "72ad9e44-7e09-422a-a42b-7ba6d93ffae1",
+            "id": "24",
+            "name": "Maps",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13348235406730757",
+            "date_last_used": "0",
+            "guid": "52df1428-8122-4a96-aae2-7872fb9739bd",
+            "id": "11",
+            "name": "Amazon.co.uk - Online Shopping",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp"
+         }, {
+            "date_added": "13348235406730672",
+            "date_last_used": "0",
+            "guid": "778d1c48-dc3d-4bbf-8309-1721f5a8b940",
+            "id": "10",
+            "name": "Agoda",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=agoda&c=222&locale=*&pf=*&tp=edge&TYPE=3"
+         }, {
+            "date_added": "13348235406730590",
+            "date_last_used": "0",
+            "guid": "65086aa3-d9fe-45c5-9e79-43ec00ea7239",
+            "id": "9",
+            "name": "Express VPN",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge"
+         }, {
+            "date_added": "13348235406730499",
+            "date_last_used": "0",
+            "guid": "533602c2-05b9-4cc0-8a7b-58aa266c46bc",
+            "id": "8",
+            "name": "McAfee Security",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html"
+         }, {
+            "date_added": "13348235406729845",
+            "date_last_used": "0",
+            "guid": "736b22af-4f00-4dfd-a99e-23e8871205bd",
+            "id": "7",
+            "name": "LastPass password manager",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=lastpass&c=222&locale=*&pf=*&tp=edge&TYPE=3"
+         } ],
+         "date_added": "13348235406493242",
+         "date_last_used": "0",
+         "date_modified": "13348237638274675",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [  ],
+            "date_added": "13336490711624856",
+            "date_last_used": "0",
+            "date_modified": "13336490711624856",
+            "guid": "393ea280-fea6-4ba5-acc3-a850917b2be2",
+            "id": "19",
+            "name": "Bookmark Bar",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13336490711625055",
+            "date_last_used": "0",
+            "date_modified": "13336490711625055",
+            "guid": "4381d596-1ef6-437c-b22c-cfd0309febdd",
+            "id": "20",
+            "name": "Other Bookmarks",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13336490711625078",
+            "date_last_used": "0",
+            "date_modified": "13336490711625078",
+            "guid": "c681be35-ff96-4b4e-93a3-e97eeb27fc42",
+            "id": "21",
+            "name": "Synced Bookmarks",
+            "type": "folder"
+         } ],
+         "date_added": "13348235406493244",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13348235406493245",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
